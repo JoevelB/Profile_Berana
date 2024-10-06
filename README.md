@@ -1,0 +1,1 @@
+Hi there! I'm Joevel, and I'm excited to share my mobile app assignment focused on a profile page designed for user customization and engagement. Currently, the only fully functional feature is the Dark Mode option, which allows users to switch to a darker theme for a more comfortable viewing experience. Stay tuned for future updates as I work on adding more exciting features!
